@@ -3,7 +3,7 @@
 So yeah... I totally coded this myself. Definitely. Not like an AI did all the work while I just sat here watching. Nope. 😎
 
 ## What This Does
-This script does some real hacker-level magic:
+This script does some real magic:
 - Finds all `.AppImage` files in a directory
 - Extracts them (because why not?)
 - Hunts down their icons like a bounty hunter 🏹
