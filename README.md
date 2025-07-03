@@ -19,7 +19,8 @@ This Python script performs the following tasks:
 ## 📦 How to Use
 
 1. Run the script:
-   ```bash
+
+```bash
    python3 appimage_extractor.py
 ````
 
