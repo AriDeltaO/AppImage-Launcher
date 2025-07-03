@@ -1,4 +1,3 @@
-````markdown
 # AppImage Extractor & Shortcut Generator
 
 A utility script powered by AI (with a bit of human supervision) to automate the extraction of `.AppImage` files and generate convenient desktop shortcuts for Linux users.
